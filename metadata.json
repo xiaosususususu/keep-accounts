@@ -1,0 +1,5 @@
+{
+  "name": "记账",
+  "description": "A professional-grade real-time ledger for poker, mahjong, and board games. Features player management, buy-in tracking, and automatic settlement algorithms.",
+  "requestFramePermissions": []
+}
